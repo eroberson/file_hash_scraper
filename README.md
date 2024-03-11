@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/eroberson/file_hash_scraper.svg?branch=master)](https://travis-ci.org/eroberson/file_hash_scraper)
-
 # File hash scraper
 This is a Python tool for crawling directories to find and list any files identical by MD5 hash, regardless of filename.
 
